@@ -15,7 +15,7 @@ Hi there!
 
 💻 My current programming foundation includes C, Python, and Java, with a strong proficiency in data structures, algorithms, and software engineering principles through a variety of academic projects. I hope these projects showcase my adaptability, determination, and potential to contribute in my new career path.
 
-⭐ Driven by a passion for AI, B2C platforms, and IoT, I'm excited to take on new challenges and leverage my diverse experience in the tech industry. I'm currently seeking my experience as a SWE-to-be to accelerate my growth, apply my existing skills, and gain invaluable hands-on experience.
+⭐ Driven by a passion for AI, B2C platforms, and IoT, I'm excited to take on new challenges and leverage my diverse experience in the tech industry. I'm currently seeking experience to accelerate my growth, apply my existing skills, and gain invaluable hands-on experience as a SWE-to-be. 
 
 
 

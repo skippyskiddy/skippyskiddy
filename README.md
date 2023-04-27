@@ -20,8 +20,7 @@ Hi there!
 
 
 
-Feel free to explore my projects and reach out if you have any questions or opportunities. Thanks for stopping by, I hope we cross paths in the road to positive impact!
-
+Feel free to explore my projects and reach out if you have any questions or opportunities. Thanks for stopping by!
 
 
 

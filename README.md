@@ -12,7 +12,7 @@
 
 Hi there! 
 
-📕 I'm currently pursuing an MSCS at Northeastern University, with an interesting background as an ex-product marketing manager. I think I bring valuable insights into the world of softeare dev as a career switcher, with years of professional experience in graphic design, marketing, and project management.
+📕 I'm currently pursuing an MSCS at Northeastern University, having previously worked as a product marketing manager. I believe I bring valuable insights into the world of softeare dev as a career switcher with years of professional experience in graphic design, marketing, and project management.
 
 💻 My current programming foundation includes Python, Java, and C with a strong proficiency in data structures, algorithms, and software engineering principles through a variety of academic & hobbyist projects.
 

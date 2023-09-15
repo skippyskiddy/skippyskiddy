@@ -16,10 +16,10 @@ Hi there!
 
 💻 My current programming foundation includes Python, Java, and C with a strong proficiency in data structures, algorithms, and software engineering principles through a variety of academic & hobbyist projects.
 
-⭐ I'm excited to take on new challenges and leverage my diverse experience in the tech industry. I'm currently seeking experience to accelerate my growth, apply my existing skills, and gain invaluable hands-on experience as a SWE-to-be. 
+⭐ I'm currently seeking experience to accelerate my growth as a SWE by applying my existing skills through hands-on experience.  
 
 
-Feel free to explore my projects and reach out if you have any questions or opportunities. Thanks for stopping by!
+Feel free to explore my projects and reach out if you have any questions or opportunities that you think I'd be suitable for. Let's collaborate - thanks for stopping by!
 
 
 

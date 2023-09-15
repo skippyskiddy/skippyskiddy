@@ -12,13 +12,11 @@
 
 Hi there! 
 
-📕 I'm currently pursuing an MSCS at Northeastern University, with a unique background as an ex-product marketing manager in the tech industry. As a career switcher, I bring valuable insights and a fresh perspective to the world of software development with my professional background in graphic design, marketing, and project management.
+📕 I'm currently pursuing an MSCS at Northeastern University, with an interesting background as an ex-product marketing manager. I think I bring valuable insights into the world of softeare dev as a career switcher, with years of professional experience in graphic design, marketing, and project management.
 
-💻 My current programming foundation includes C, Python, and Java, with a strong proficiency in data structures, algorithms, and software engineering principles through a variety of academic projects. I hope these projects showcase my adaptability, determination, and potential to contribute in my new career path.
+💻 My current programming foundation includes Python, Java, and C with a strong proficiency in data structures, algorithms, and software engineering principles through a variety of academic & hobbyist projects.
 
-⭐ Driven by a passion for AI, B2C platforms, and IoT, I'm excited to take on new challenges and leverage my diverse experience in the tech industry. I'm currently seeking experience to accelerate my growth, apply my existing skills, and gain invaluable hands-on experience as a SWE-to-be. 
-
-
+⭐ I'm excited to take on new challenges and leverage my diverse experience in the tech industry. I'm currently seeking experience to accelerate my growth, apply my existing skills, and gain invaluable hands-on experience as a SWE-to-be. 
 
 
 Feel free to explore my projects and reach out if you have any questions or opportunities. Thanks for stopping by!
